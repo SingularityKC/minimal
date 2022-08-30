@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Stock market Sentiment Analysis
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This project collects information on the twitter and other social media websites and provides a score for stocks, higher score indicates that the stock price is likely to increase in the near future..
 
 ## Header 2
 
